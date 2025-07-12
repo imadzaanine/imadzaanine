@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Next.Js<br>💬 Ask me about Vue.js , web development <br>📫 How to reach me imadzaanine@gmail.com
+<br>🌱 I’m currently Experementing with diffrent AI models<br>💬 Ask me about Vue.js , web development <br>📫 How to reach me imadzaanine@gmail.com
 
 
 ## 🌐 Socials:
